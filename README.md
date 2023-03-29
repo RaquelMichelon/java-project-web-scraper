@@ -8,7 +8,6 @@ This project was built using Java, Spring Boot and Jsoup <br/>
   <a href="#-setup">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">License</a>
 </p>
 
@@ -23,23 +22,34 @@ This project was built using Java, Spring Boot and Jsoup <br/>
 
 <br>
 
-<p align="center">
-  <img alt="Project logo here" src=".github/preview.jpg" width="100%">
-</p>
-
 
 ## 🚧 Setup
 
-Steps to follow in order to get the project running:
+To have this project running locally follow those steps:
+
+- Clone the project -> `git clone`
+
+- Import the project into an IDE of your choice
+
+- Run it
+
+- Test the API request in `localhost:8080/{enter-a-title-here}`
 
 
 ## 🚀 Technologies
 
+- IntelliJ IDE 
+- Spring Boot framework
+- Maven 
+- JDK 17
+- Jsoup 
+- Lombok 
+
 
 ## 💻 Project
 
+This is a web scraper API which receive a title as parameter, scrap the ads from two websites based on title's word and return a list with ads title and url as a response.
 
-## 🔖 Layout
 
 ## :memo: Licença
 
