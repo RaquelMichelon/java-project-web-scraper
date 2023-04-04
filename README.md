@@ -50,7 +50,7 @@ To have this project running locally follow those steps:
 
 This is a web scraper API which receive a title as parameter, scrap the ads from two websites based on title's word and return a list with ads title and url as a response.
 
-I wrote a step by step guide about it in [this article](https://medium.com/@raquel.m12/web-scraping-api-ed24c754bf63).
+I wrote a step by step guide about it in [this article](https://medium.com/@raquel.m12/web-scraping-api-ed24c754bf63) (PT-BR).
 
 ## :memo: Licença
 
